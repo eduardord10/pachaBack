@@ -1,9 +1,9 @@
 Algoritmo Ejercicio1
-	Escribir "Ingrese un número: "
+	Escribir "Ingrese un nï¿½mero: "
 	Leer numero
 	Si numero >= 100 Y numero <= 999 Entonces
-		Escribir "Tiene tres dígitos"
+		Escribir "Tiene tres dï¿½gitos"	
 	Sino
-		Escribir "No tiene tres dígitos"
+		Escribir "No tiene tres dï¿½gitos"
 	FinSi
 FinAlgoritmo
